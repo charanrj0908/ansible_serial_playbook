@@ -1,0 +1,7 @@
+[myself]
+ansible-c ansible_connection=local
+
+
+[nodes]
+node1 ansible_host=172.31.86.69
+node2 ansible_host=172.31.88.123
